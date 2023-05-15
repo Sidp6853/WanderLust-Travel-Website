@@ -1,0 +1,30 @@
+body{
+    background-color:antiquewhite;
+}
+header>img{
+   height: 60%;
+   width: 50%;
+   display:block;
+   align-items: center;
+   image-resolution: 100;
+   margin-left: 8cm;
+   background-color:;
+
+}
+header>h1{
+    font-family:Castellar;
+    font-size: 48px;
+     color: black;
+}
+section1>img{
+    display: inline-flexbox;
+    height: 70%;
+    width:30%;
+   
+}
+
+section1>img:hover{
+    width:30%;
+    height:80%;
+    border:1cm solid black;
+}
